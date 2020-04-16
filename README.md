@@ -4,7 +4,7 @@
 
 project for udemy course
 
-tech stack: html, css, js, webpack, vue.js, git, babel
+tech stack: html, css, vue.js, git, babel
 
 send message: ctrl + enter
 
